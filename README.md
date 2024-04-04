@@ -1,2 +1,11 @@
 # cli_firstTry
-this is my first CLI 
+
+### technology:
+npm
+clack 
+javascript 
+
+## demo 
+
+![demo image](./cli_app.jpg)
+
